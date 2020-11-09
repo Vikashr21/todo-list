@@ -2,7 +2,7 @@
 ![result](result.PNG)
 
 
-#tech used:
+# tech used:
 <br>1.HTML
 <br>2.CSS
 <br>3.javascript
